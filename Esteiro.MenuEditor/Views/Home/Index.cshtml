@@ -1,0 +1,159 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@using Esteiro.MenuEditor.Helpers
+
+<script>
+    var accessOptions = @Html.Raw(ViewBag.AccessOptions);
+    var sections = @Html.Raw(ViewBag.Sections);
+    var functions = @Html.Raw(ViewBag.Functions);
+</script>
+
+<div id="preview">
+    <div id="add_section_container">
+        <p class="strong_paragraph">The new section creator is used to create a menu scaffold for new extension items.  Type in the name of your extension object and hit add section.</p>
+        <input data-bind="value: newsectionname" />
+        <button type="button" data-bind="click: AddSection">Add Section</button>
+    </div>
+    <div id="tabs">
+        <ul>            
+            <li><a href="#menuAll">All</a></li>
+            <li><a href="#menuMain">Main</a></li>
+            <li><a href="#menuMainUserOnly">Main (User Only)</a></li>
+            <li><a href="#menuMainAdminOnly">Main (Admin Only)</a></li>
+            <li><a href="#menuItems">Items</a></li>
+            <li><a href="#menuExtensionObjects">Extension Objects</a></li>
+            <li><a href="#menuModified">Modified</a></li>
+        </ul>
+        <div id="menuAll" data-filter="none">
+        </div>
+        <div id="menuMain" data-filter="mainonly">
+        </div>
+        <div id="menuMainUserOnly" data-filter="mainuseronly">
+        </div>
+        <div id="menuMainAdminOnly" data-filter="mainadminonly">
+        </div>
+        <div id="menuItems" data-filter="itemsonly">
+        </div>
+        <div id="menuExtensionObjects" data-filter="extensionobjectsonly">
+        </div>
+        <div id="menuModified" data-filter="modifiedonly">
+        </div>
+    </div>
+    <div data-bind="foreach: $root.GetSections()">
+        <div class="section-holder">
+            <h3 data-bind="text: name, click: ToggleCollapsed"></h3>
+            <div class="section" data-bind="css: ToggleStatus">
+                <div class="menu-holder-outer">
+                <div data-bind="foreach: menus">
+                    <h3 data-bind="text: name"></h3>    
+                        <div class="menu-holder-inner">
+                            <button type="button" data-bind="click: AddNewMenuItem">Add Item</button>
+                            <button type="button" data-bind="click: $root.DialogHelper.ShowNewButtonDialog">Add Button</button>
+                            <ul class="menu" data-bind="foreach: GetMenuItems(), sortable: GetMenuItems(), attr: {'data-menuid': menuid}">
+                                <li class="menu-item" data-bind="style: {left: getLeftOffset()}, click: $root.SelectItem, css: {deleted: Deleted, 'empty-item': emptyItem, button: IsButton, fromextensionfile: fromExtensionFile, coreItem: !fromExtensionFile}, attr: {'data-menuid': $parent.menuid, 'data-index': index}"><span data-bind="text: Label"></span></li>
+                            </ul>
+                        </div>
+                </div>
+                <div class="clear"></div>
+                </div>
+            </div>  
+        </div>       
+    </div>
+</div>
+
+<div id="edit">
+    <ul>
+        <li><a href="#editSimple">Simple Edit</a></li>
+        <li><a href="#editAdvanced">Advanced Edit</a></li>
+    </ul>
+    <div id="editSimple">
+        <div data-bind="with: selecteditem">
+            <label>Label</label>
+            <input data-bind="value: Label"></input>
+            <label>Access Option</label>
+            <select data-bind="foreach: $root.accessoptions, value: AccessOption">
+                <option data-bind="value: Id, text: Summary"></option>
+            </select>
+            <select data-bind="value: accessLevelText">
+                <option value="1">Access</option>
+                <option value="2">Edit</option>
+                <option value="3">Delete</option>
+            </select>
+            <label>Function (Action)</label>
+            <select data-bind="foreach: $root.functions, value: Function">
+                <option data-bind="value: $data, text: $data"></option>
+            </select>
+            <label>Parameters</label>
+            <input />
+            <span class="ui-icon ui-icon-gear" onclick="ParametersHelperClick()"></span>
+            <button type="button" data-bind="click:ConvertToSubmenu">Convert to submenu</button>
+            <button type="button" data-bind="click: ToggleDeleteItem, text: DeleteItemText()"></button>
+            <button type="button" data-bind="click: SaveChanges">Save Changes</button>
+        </div>
+    </div>
+    <div id="editAdvanced">
+        <div data-bind="with: selecteditem">
+            <label>Label</label><input data-bind="value: Label"></input>
+            <!--<label>Menu</label><select data-bind="value: menu, foreach: $root.menus()">
+                <option data-bind="text: $data, value: $data"></option>
+            </select>-->
+            <label>Access Option</label>
+            <input data-bind="value: AccessOption" />
+            <label>Access Level</label><input data-bind="value:AccessLevel"/>
+            <label>Source File</label>
+            <input data-bind="value: SourceFile" disabled></input>
+            <label>Is Button</label>
+            <select data-bind="value: buttonText" disabled>
+                <option value="true">Yes</option>
+                <option value="false">No</option>
+            </select>
+            <label>Javascript Function</label><input data-bind="value: Function"></input>
+            <label>Function Type</label><input data-bind="value: FunctionType"></input>
+            <label>Parameter One</label><input data-bind="value: Param1"></input>
+            <label>Parameter Two</label><input data-bind="value: Param2"></input>
+            <label>Id</label><input data-bind="value: Id" disabled></input>
+            <label>Child Name</label><input data-bind="value: ChildName"></input>
+            <label>Page Match</label><input data-bind="value: PageMatch"></input>
+            <label>Icon URL</label><input data-bind="value: IconUrl"></input>
+            <label>Value</label><input data-bind="value: Value"></input>
+            <label>Overlay File Line Name</label><input data-bind="value: OverlayFileLineName" disabled></input>            
+            <button type="button" data-bind="click: ToggleDeleteItem, text: DeleteItemText()"></button>
+            <button type="button" data-bind="click: SaveChanges">Save Changes</button>
+        </div>
+    </div>
+</div>
+<div id="OpenExtensionObjectDialog" class="hidden">
+    <div data-bind="with: selecteditem"> 
+        <button>Open Extension Object</button>
+        "extension" : [object def name]
+        <button>Open New Extension Object</button>
+        "newextension" : [object def name]
+    </div>
+</div>
+<div id="NavigateWizardDialog" class="hidden">
+    <div data-bind="with: selecteditem">        
+        <button>Navigate to Extension List</button>
+        "extensionlist" : [layout name]
+    </div>
+</div>
+<div id="MoveTabWizardDialog" class="hidden">
+    <div data-bind="with: selecteditem">
+        <button>Show Extension sublist</button>
+        [parentobject] : "extensionlist" : [layout name]
+        <button>Show Extension subscreen</button>
+        [parentobject] : "extension" : [object def name]
+        <button>Show Extension subscreen section</button>
+        [parentobject] : "extension" : [object def name] : [section name]
+    </div>
+</div>
+<div id="NewButtonDialog" class="hidden">
+    <label>Type</label>
+    <select id="buttontype">
+        <option value="blank">Blank Button</option>        
+        <option value="editsave">Edit/Save</option>
+        <option value="undo">Undo</option>
+        <option value="save">Save</option>
+        <option value="close">Close</option>
+    </select>
+</div>

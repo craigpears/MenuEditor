@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Esteiro.MenuEditor.DataAccess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=sql01; Database=GoldVisionCraig; Trusted_Connection=yes; Max Pool Size=500;Connection Timeout=60;</Value>
+    </Setting>
+    <Setting Name="LangEnUkFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\gvsandbox01\e$\Program Files\Esteiro\Gold-VisionCraig\Lang\en_uk</Value>
+    </Setting>
+    <Setting Name="StockAccessOptionsFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\stock_access_options.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

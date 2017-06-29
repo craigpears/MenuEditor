@@ -1,0 +1,16 @@
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.dll.config
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.Common.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.Common.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.csprojResolveAssemblyReference.cache
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.dll.config
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.DataAccess.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.Common.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\bin\Debug\Esteiro.MenuEditor.Common.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.csprojResolveAssemblyReference.cache
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.DataAccess\obj\Debug\Esteiro.MenuEditor.DataAccess.pdb

@@ -1,0 +1,79 @@
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Antlr3.Runtime.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\EntityFramework.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.Common.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.DataAccess.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Microsoft.Web.Infrastructure.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Newtonsoft.Json.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.Formatting.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.WebRequest.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.WebHost.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Mvc.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Optimization.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Providers.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Razor.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Deployment.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Razor.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\WebGrease.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.Common.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.DataAccess.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\EntityFramework.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Newtonsoft.Json.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.Formatting.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.WebRequest.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.WebHost.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Mvc.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Razor.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Deployment.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Razor.xml
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.csprojResolveAssemblyReference.cache
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.dll.config
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Antlr3.Runtime.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\EntityFramework.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.Common.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.DataAccess.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Microsoft.Web.Infrastructure.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Newtonsoft.Json.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.Formatting.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.WebRequest.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.WebHost.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Mvc.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Optimization.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Providers.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Razor.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Deployment.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Razor.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\WebGrease.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.Common.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Esteiro.MenuEditor.DataAccess.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\EntityFramework.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\Newtonsoft.Json.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.Formatting.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Net.Http.WebRequest.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Http.WebHost.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Mvc.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.Razor.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Deployment.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\bin\System.Web.WebPages.Razor.xml
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.csprojResolveAssemblyReference.cache
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor\obj\Debug\Esteiro.MenuEditor.pdb

@@ -1,0 +1,10 @@
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\bin\Debug\Esteiro.MenuEditor.Common.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\bin\Debug\Esteiro.MenuEditor.Common.pdb
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.csprojResolveAssemblyReference.cache
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.dll
+C:\GVProjects\Other Projects\Esteiro\Tools\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\bin\Debug\Esteiro.MenuEditor.Common.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\bin\Debug\Esteiro.MenuEditor.Common.pdb
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.csprojResolveAssemblyReference.cache
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.dll
+\\nas-pears\Projects\Esteiro.MenuEditor\Esteiro.MenuEditor.Common\obj\Debug\Esteiro.MenuEditor.Common.pdb

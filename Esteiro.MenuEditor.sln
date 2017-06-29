@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esteiro.MenuEditor", "Esteiro.MenuEditor\Esteiro.MenuEditor.csproj", "{F9C4284B-BF20-4E8C-88B1-8ED255EC548E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esteiro.MenuEditor.DataAccess", "Esteiro.MenuEditor.DataAccess\Esteiro.MenuEditor.DataAccess.csproj", "{CAA692DC-8ED9-4725-858D-15284CD4C14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esteiro.MenuEditor.Common", "Esteiro.MenuEditor.Common\Esteiro.MenuEditor.Common.csproj", "{CB3FD66F-5E68-4055-B081-04909C524DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esteiro.MenuEditor.TestProject", "Esteiro.MenuEditor.TestProject\Esteiro.MenuEditor.TestProject.csproj", "{0C649A63-C366-4932-B974-59199CC24038}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tornado:87/tfs/esteiro%20development
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Esteiro.MenuEditor\\Esteiro.MenuEditor.csproj
+		SccProjectName1 = Esteiro.MenuEditor
+		SccLocalPath1 = Esteiro.MenuEditor
+		SccProjectUniqueName2 = Esteiro.MenuEditor.DataAccess\\Esteiro.MenuEditor.DataAccess.csproj
+		SccProjectName2 = Esteiro.MenuEditor.DataAccess
+		SccLocalPath2 = Esteiro.MenuEditor.DataAccess
+		SccProjectUniqueName3 = Esteiro.MenuEditor.Common\\Esteiro.MenuEditor.Common.csproj
+		SccProjectName3 = Esteiro.MenuEditor.Common
+		SccLocalPath3 = Esteiro.MenuEditor.Common
+		SccProjectUniqueName4 = Esteiro.MenuEditor.TestProject\\Esteiro.MenuEditor.TestProject.csproj
+		SccProjectName4 = Esteiro.MenuEditor.TestProject
+		SccLocalPath4 = Esteiro.MenuEditor.TestProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C4284B-BF20-4E8C-88B1-8ED255EC548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C4284B-BF20-4E8C-88B1-8ED255EC548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C4284B-BF20-4E8C-88B1-8ED255EC548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C4284B-BF20-4E8C-88B1-8ED255EC548E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA692DC-8ED9-4725-858D-15284CD4C14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA692DC-8ED9-4725-858D-15284CD4C14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA692DC-8ED9-4725-858D-15284CD4C14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA692DC-8ED9-4725-858D-15284CD4C14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB3FD66F-5E68-4055-B081-04909C524DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3FD66F-5E68-4055-B081-04909C524DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3FD66F-5E68-4055-B081-04909C524DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3FD66F-5E68-4055-B081-04909C524DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C649A63-C366-4932-B974-59199CC24038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C649A63-C366-4932-B974-59199CC24038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C649A63-C366-4932-B974-59199CC24038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C649A63-C366-4932-B974-59199CC24038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
